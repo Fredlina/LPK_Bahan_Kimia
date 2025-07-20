@@ -206,7 +206,6 @@ elif menu == "Bahan Kimia Organik":
     ("Sorbitol", "C6H14O6", "Aman dalam dosis wajar", "Rendah", "Penyimpanan tertutup", "Pemanis buatan"),
     ("Mannitol", "C6H14O6", "Aman, efek laksatif ringan", "Rendah", "Gunakan sesuai anjuran", "Obat diuretik, pemanis"),
     ("Ethanol", "C2H6O", "Mudah terbakar, iritasi", "Tinggi", "Hindari api terbuka", "Antiseptik, pelarut, bahan bakar"),
-    ("Methanol", "CH4O", "Sangat beracun, dapat menyebabkan kebutaan", "Tinggi", "Gunakan fume hood", "Bahan bakar, pelarut, antifreeze"),
     ("1-Propanol", "C3H8O", "Iritasi dan mudah terbakar", "Tinggi", "Ventilasi baik", "Pelarut dan antiseptik"),
     ("2-Propanol", "C3H8O", "Mudah terbakar, iritasi", "Tinggi", "Gunakan pelindung mata", "Pembersih dan disinfektan"),
     ("1-Butanol", "C4H10O", "Iritasi kulit dan mata", "Sedang", "Gunakan sarung tangan", "Pelarut industri"),
